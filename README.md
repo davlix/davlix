@@ -2,18 +2,9 @@
 
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?demauye=DenverCoder1)](https://git.io/streak-stats)
 
-I am Harsh Kumar Khatri 😃. I am from Kota, Rajasthan and currently doing my B.Tech from Career Point University, Alniya 🏫. I love to explore and learn about new things.
-## 👯 Communities
-* DSC Lead.
-* Mentor at HackItShipIt(MLH), Hack for the people, HackinCodes.
-* Microsoft Student Learn Ambassador (MSP/MLSA).
-* Deeplearning.ai event ambassador.
-* Management Team Lead at Voice Of Code.
-* CSE Club at CPU.
-* CamPus Ambassador at Coding Ninja and Humanity Welfare Council.
-* Internshala Student Partner-16.
-## ⚡ Technologies
+
 Talk to me about:
 - Front-end development using **HTML, Javascript, CSS, Bootstrap**.
 - Backend development using **Flask, Django**.
@@ -30,7 +21,10 @@ Talk to me about:
 - 🔔 Subscribe:- [BabyPunk](#).
 - ⚡ Fun fact: Internet users blink less than usual.
 
-![Harsh's github stats](https://github-readme-stats.vercel.app/api?username=demauye&hide=["issues"]&show_icons=true)
-
-![visitors](#)
-
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="" height="30" width="40" /></a>
+<a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
+<a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="30" width="40" /></a>
+<a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="" height="30" width="40" /></a>
+</p>
