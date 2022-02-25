@@ -2,8 +2,6 @@
 
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 
-[![Twitter Badge](https://img.shields.io/badge/-@Harshkhatri24-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Harshkhatri24)](https://twitter.com/Harshkhatri24) [![Linkedin Badge](https://img.shields.io/badge/-harshkumarkhatri-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harshkumarkhatri/)](https://www.linkedin.com/in/harshkumarkhatri/) [![Medium Badge](https://img.shields.io/badge/-@mailharshkhatri-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@mailharshkhatri/)](https://medium.com/harsh-kumar-khatri)
-[![Gmail Badge](https://img.shields.io/badge/-mailharshkhatri@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mailharshkhatri@gmail.com)](mailto:mailharshkhatri@gmail.com)
 
 I am Harsh Kumar Khatri 😃. I am from Kota, Rajasthan and currently doing my B.Tech from Career Point University, Alniya 🏫. I love to explore and learn about new things.
 ## 👯 Communities
@@ -27,12 +25,12 @@ Talk to me about:
 - Solving Data structure and algorithm questions in **Java and Python**.
 ## Hello World!! 🤔
 - 💬 Ask me about anything an everything.
-- 📫 Read my blogs: [Harsh Blog](https://medium.com/harsh-kumar-khatri).
-- 🎯 Portfolio site: [Portfolio](https://harshkumarkhatri.github.io/Portfolio-Site/index.html).
-- 🔔 Subscribe:- [Harsh Kumar Khatri](https://www.youtube.com/channel/UCKNtMU9M559bmXxKoT6YeJw).
+- 📫 Read my blogs: [ROKUH](#).
+- 🎯 Portfolio site: [Portfolio](#).
+- 🔔 Subscribe:- [BabyPunk](#).
 - ⚡ Fun fact: Internet users blink less than usual.
 
-![Harsh's github stats](https://github-readme-stats.vercel.app/api?username=harshkumarkhatri&hide=["issues"]&show_icons=true)
+![Harsh's github stats](https://github-readme-stats.vercel.app/api?username=demauye&hide=["issues"]&show_icons=true)
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=harshkumarkhatri.harshkumarkhatri)
+![visitors](#)
 
