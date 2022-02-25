@@ -23,7 +23,7 @@
 ---
 
 <!--START_SECTION:waka-->
-**Total ![visitor no](https://visitor-badge.glitch.me/badge?page_id=Demauye.Demauye&left_color=black&right_color=black)**
+![](https://komarev.com/ghpvc/?username=your-github-username&color=dc143c)
 
 ```text
 🌞 Morning    158 commits    ██████████░░░░░░░░░░░░░░░   40.93% 
@@ -63,7 +63,7 @@
 
 ![Demauye's GitHub stats](https://github-readme-stats.vercel.app/api?username=Demauye&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Demauye)](https://github.com/demauye/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=demauye)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
