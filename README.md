@@ -1,13 +1,13 @@
-# Hi there, I'm Demauye <img width="30px" src="https://github.com/SatYu26/SatYu26/raw/master/Assets/Hi.gif" />
+# Hi there, I'm BabyPunk <img width="30px" src="https://github.com/SatYu26/SatYu26/raw/master/Assets/Hi.gif" />
 
 <img align="right" alt="GIF" height="160px" src="https://octodex.github.com/images/daftpunktocat-guy.gif" />
 
 ## I'm a Developer
 
-- 🌱 
-- 🏆 
-- 📫 
-- 😄 
+- 🌱 discord bot
+- 🏆 hacktools
+- 📫 web dev
+- 😄 fun
 
 [![GitHub](https://img.shields.io/badge/Github-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Demauye)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/#)
