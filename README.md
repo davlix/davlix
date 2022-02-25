@@ -59,7 +59,7 @@
 [![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black)](https://notepad-plus-plus.org)
 
 ### Github Stats
-[![trophy](https://github-profile-trophy.vercel.app/?demauye=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=demauye&theme=dark_lover)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![Demauye's GitHub stats](https://github-readme-stats.vercel.app/api?username=Demauye&show_icons=true&theme=radical)
 
