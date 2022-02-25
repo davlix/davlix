@@ -9,7 +9,7 @@
 - 📫 web dev
 - 😄 fun
 
-[![GitHub](https://img.shields.io/badge/Github-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Demauye)
+[![GitHub](https://img.shields.io/badge/Github-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BabyGPunk)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/#)
 [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/silent-kill)
 
@@ -23,7 +23,7 @@
 ---
 
 <!--START_SECTION:waka-->
-![](https://komarev.com/ghpvc/?username=your-github-username&color=dc143c)
+![](https://komarev.com/ghpvc/?username=BabyGPunk&color=dc143c)
 
 ```text
 🌞 Morning    158 commits    ██████████░░░░░░░░░░░░░░░   40.93% 
@@ -59,11 +59,11 @@
 [![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black)](https://notepad-plus-plus.org)
 
 ### Github Stats
-[![trophy](https://github-profile-trophy.vercel.app/?username=demauye&theme=dark_lover)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=BabyGPunk&theme=dark_lover)](https://github.com/ryo-ma/github-profile-trophy)
 
-![Demauye's GitHub stats](https://github-readme-stats.vercel.app/api?username=Demauye&show_icons=true&theme=radical)
+![Demauye's GitHub stats](https://github-readme-stats.vercel.app/api?username=BabyGPunk&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=demauye)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BabyGPunk)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
