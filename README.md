@@ -8,6 +8,8 @@
 - 🏆 hacktools
 - 📫 web dev
 - 😄 fun
+- ![](https://komarev.com/ghpvc/?username=BabyGPunk&color=dc143c)
+
 
 [![GitHub](https://img.shields.io/badge/Github-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BabyGPunk)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/GwMW3zgygf)
@@ -23,7 +25,6 @@
 ---
 
 <!--START_SECTION:waka-->
-![](https://komarev.com/ghpvc/?username=BabyGPunk&color=dc143c)
 
 ```text
 🌞 Morning    158 commits    ██████████░░░░░░░░░░░░░░░   40.93% 
