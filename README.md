@@ -1,4 +1,4 @@
-# Hi there, I'm BabyPunk <img width="30px" src="https://github.com/SatYu26/SatYu26/raw/master/Assets/Hi.gif" />
+# Hi there, I'm davlix<img width="30px" src="https://github.com/SatYu26/SatYu26/raw/master/Assets/Hi.gif" />
 
 <img align="right" alt="GIF" height="160px" src="https://octodex.github.com/images/homercat.png" />
 
@@ -8,7 +8,7 @@
 - 🏆 hacktools
 - 📫 web dev
 - 😄 fun
-- ![](https://komarev.com/ghpvc/?username=BabyGPunk&color=dc143c)
+- ![](https://komarev.com/ghpvc/?username=davlix&color=dc143c)
 
 
 [![GitHub](https://img.shields.io/badge/Github-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BabyGPunk)
@@ -60,11 +60,11 @@
 [![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black)](https://notepad-plus-plus.org)
 
 ### Github Stats
-[![trophy](https://github-profile-trophy.vercel.app/?username=BabyGPunk&theme=dark_lover)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=davlix&theme=dark_lover)](https://github.com/ryo-ma/github-profile-trophy)
 
-![Demauye's GitHub stats](https://github-readme-stats.vercel.app/api?username=BabyGPunk&show_icons=true&theme=radical)
+![Demauye's GitHub stats](https://github-readme-stats.vercel.app/api?username=davlix&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BabyGPunk)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davlix)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
