@@ -1,6 +1,6 @@
 # Hi there, I'm davlix<img width="30px" src="https://github.com/SatYu26/SatYu26/raw/master/Assets/Hi.gif" />
 
-<img align="right" alt="GIF" height="160px" src="https://octodex.github.com/images/homercat.png" />
+<img align="right" alt="GIF" height="160px" src="https://i.imgur.com/xUg78pX.png" />
 
 ## I'm a Developer
 
@@ -51,7 +51,7 @@
 [![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://microsoft.com/windows)
 [![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)](https://heroku.com)
 ![Raspberry Pi](https://img.shields.io/badge/raspberrypi-Code?style=for-the-badge&logo=raspberrypi&logoColor=black&color=F1C232)
-![Linux](https://img.shields.io/badge/Linux-3DDC84?style=for-the-badge&logo=Linux&logoColor=black)
+[![Linux](https://img.shields.io/badge/Linux-3DDC84?style=for-the-badge&logo=Linux&logoColor=black)
 
 
 ### Browsers and IDE
@@ -66,8 +66,3 @@
 ![Davlix's GitHub stats](https://github-readme-stats.vercel.app/api?username=davlix&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davlix)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
-
-<img src="https://i.imgur.com/xUg78pX.png"/> 
