@@ -50,8 +50,8 @@
 [![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://android.com)
 [![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://microsoft.com/windows)
 [![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)](https://heroku.com)
-[![Repl.it](https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white)](https://replit.com)
 ![Raspberry Pi](https://img.shields.io/badge/raspberrypi-Code?style=for-the-badge&logo=raspberrypi&logoColor=black&color=F1C232)
+[![Linux](https://img.shields.io/badge/Linux-3DDC84?style=for-the-badge&logo=Linux&logoColor=black)
 
 
 ### Browsers and IDE
@@ -63,7 +63,7 @@
 ### Github Stats
 [![trophy](https://github-profile-trophy.vercel.app/?username=davlix&theme=dark_lover)](https://github.com/ryo-ma/github-profile-trophy)
 
-![Demauye's GitHub stats](https://github-readme-stats.vercel.app/api?username=davlix&show_icons=true&theme=radical)
+![Davlix's GitHub stats](https://github-readme-stats.vercel.app/api?username=davlix&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davlix)](https://github.com/anuraghazra/github-readme-stats)
 
