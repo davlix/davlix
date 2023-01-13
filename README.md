@@ -50,7 +50,7 @@
 [![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://microsoft.com/windows)
 [![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)](https://heroku.com)
 ![Raspberry Pi](https://img.shields.io/badge/raspberrypi-Code?style=for-the-badge&logo=raspberrypi&logoColor=black&color=F1C232)
-[![Linux](https://img.shields.io/badge/Linux-3DDC84?style=for-the-badge&logo=Linux&logoColor=black)
+![Linux](https://img.shields.io/badge/Linux-3DDC84?style=for-the-badge&logo=Linux&logoColor=black)
 
 
 ### Browsers and IDE
