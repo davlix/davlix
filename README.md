@@ -1,4 +1,4 @@
-```markdown
+
 # Hi there, I'm davlix<img width="30px" src="https://github.com/SatYu26/SatYu26/raw/master/Assets/Hi.gif" />
 
 <img align="right" alt="GIF" height="160px" src="https://i.imgur.com/xUg78pX.png" />
@@ -60,4 +60,4 @@
 ![Davlix's GitHub stats](https://github-readme-stats.vercel.app/api?username=davlix&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davlix)](https://github.com/anuraghazra/github-readme-stats)
-```
+
